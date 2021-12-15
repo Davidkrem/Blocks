@@ -43,7 +43,7 @@ yarn start
 
 
 ### Capstone Presentation Video
-- Coming soon
+- https://youtu.be/FBAdsqsFDGU
 
 ### Live Demo
 - https://blocks-kool.herokuapp.com/
